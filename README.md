@@ -98,9 +98,9 @@ text-align: center;
 color: #FFFFFF;
 ```
 ## OUTPUT:
-![output](./out 1.png)
-![output](./out 2.png)
-![output](./out 3.png)
+![output](./out1.png)
+![output](./out2.png)
+![output](./out3.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
